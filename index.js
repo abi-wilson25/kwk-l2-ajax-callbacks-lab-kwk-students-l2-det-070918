@@ -1,7 +1,12 @@
 $(document).ready(function (){
 });
 
-
+$.ajax({
+  url: ,
+  data: data,
+  success: success,
+  dataType: dataType
+});
   
 }
 $.get( "", function( ) {
