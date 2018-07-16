@@ -2,7 +2,7 @@ $(document).ready(function (){
 });
 
 $.ajax({
-  url: ,
+  url: "https://api.github.com",
   data: data,
   success: success,
   dataType: dataType
