@@ -5,7 +5,7 @@ $.ajax({
   url: "https://api.github.com",
   data: data,
   success: success,
-  dataType: dataType
+  dataType: "jsonp"
 });
   
 }
