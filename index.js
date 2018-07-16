@@ -1,5 +1,4 @@
-$(document).ready(function (){
-});
+
 var displayError = () => $('#errors').html("I'm sorry, there's been an error. Please try again.")
 
 
@@ -52,11 +51,5 @@ var displayError = () => $('#errors').html("I'm sorry, there's been an error. Pl
 	});
 
 
-Add CommentCollapse 
-Message Input
 
-
-Message kodercity-detroit
-
-Files
 
