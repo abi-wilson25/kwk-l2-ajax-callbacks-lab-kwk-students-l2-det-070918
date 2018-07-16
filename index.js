@@ -1,4 +1,4 @@
-$(document).ready(function (){
+$(document).ready(function searchRepositories(searchTerms){
 });
 
 $.ajax({
